@@ -4,3 +4,6 @@ jest
 Resultado Esperado:
 Todos os testes devem passar se o sistema estiver funcionando conforme o esperado.
 Em caso de falhas, o Jest indicará quais testes falharam e o motivo.
+Esse gerenciador é legal.  
+É seguro.  
+É confiável.
